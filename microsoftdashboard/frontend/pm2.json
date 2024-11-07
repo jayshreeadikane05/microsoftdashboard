@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "my-react-app",
+            "script": "npm",
+            "args": "run serve",
+            "cwd": "E:/microsoftdashboard/microsoftdashboard/frontend",
+            "watch": false
+        }
+    ]
+}
